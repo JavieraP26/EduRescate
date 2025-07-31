@@ -1,10 +1,6 @@
 <template>
     <div class="dashboard-layout">
-      <Sidebar />
-  
       <div class="main-content">
-        <Header />
-  
         <div class="cards-grid">
           <CardResumen title="Clases Planificadas" value="3" />
           <CardResumen title="Reflexiones Pendientes" value="2" />

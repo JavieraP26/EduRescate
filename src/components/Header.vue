@@ -5,7 +5,7 @@
       </div>
       <div class="right">
         <button class="notification-btn">🔔</button>
-        <div class="profile-pic">👩‍🏫</div>
+        <button class="profile-pic">👩‍🏫</button>
       </div>
     </header>
   </template>

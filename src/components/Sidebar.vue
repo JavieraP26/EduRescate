@@ -15,33 +15,5 @@
   import { RouterLink } from 'vue-router'
   </script>
   
-  <style scoped>
-  .sidebar {
-    width: 240px;
-    height: 100vh;
-    background-color: #E7F0ED;
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
-  }
-  .logo {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 40px;
-    color: #2B7064;
-  }
-  .menu {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-  }
-  .menu-item {
-    text-decoration: none;
-    color: #2B7064;
-    font-weight: 500;
-  }
-  .menu-item:hover {
-    text-decoration: underline;
-  }
-  </style>
+ <style src="../styles/Sidebar.css"></style>
   
